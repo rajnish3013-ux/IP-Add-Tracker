@@ -1,11 +1,11 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e93b9d31-dfb7-4ca3-b727-9b7be504ef2e/deploy-status)](https://app.netlify.com/sites/rajnishipaddresstracker/deploys)
 
 
 <h1 align="center">IP Address Tracker</h1>
 
 <div align="center">
 
-
+[Live](https://rajnishipaddresstracker.netlify.app/)
 | [Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI)
 | [Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
