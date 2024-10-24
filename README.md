@@ -7,8 +7,6 @@
 <div align="center">
 
 [Live](https://rajnishipaddresstracker.netlify.app/)
-| [Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI)
-| [Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
